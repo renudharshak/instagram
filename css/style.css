@@ -1,0 +1,38 @@
+.image img {
+    width: 80px;
+    margin: 46px;
+}
+.image {
+    text-align: center;
+}
+.name {
+    text-align: center;
+    color: white;
+}
+.middle {
+    text-align: center;
+    color: white;
+}
+.bottem {
+    text-align: center;
+    color: palevioletred;
+}
+.bottem{
+    border: white 2px solid;
+    border-radius: 50px;
+    max-width: 200px;
+    border-color: white;
+    margin:auto;
+    background-color: white;
+    margin-top: 74px;
+}
+.div {
+    border: palevioletred 2px solid;
+    border-radius: 50px;
+    background-color: palevioletred;
+    max-width: 520px;
+    margin:auto;
+    height: 88vh;
+    margin: auto;
+    width: 100vh;
+}
